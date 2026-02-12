@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "島人ぬ宝(inst)",
+  "base_artist": "ひーなー(CV.鬼頭明里)、かーなー(CV.ファイルーズあい)",
+  "createdAt": "2026-02-12T12:37:44.536975Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "島人ぬ宝",
+      "artist": "ひーなー(鬼頭明里)&かーなー(ファイルーズあい)",
+      "has_synced": false,
+      "path": "select/pl_01_島人ぬ宝_ひーなー(鬼頭明里)&かーなー(ファイルーズあい).txt"
+    }
+  ]
+}
